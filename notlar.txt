@@ -5,3 +5,5 @@
 3. Sed aramaya ve değiştirmeye yarar
 4. Sutunları yazdırmak için kullanılır
 5. sort and uniq sıralamaya ve düzenlemeye yarar
+Bulamadım
+
